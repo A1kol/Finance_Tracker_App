@@ -73,3 +73,7 @@ API реализован на **Spring Boot** и следует строгим �
 </div>
 
 
+### The front part was made using Figma:
+url: https://clck.ru/3PuC3t
+
+
