@@ -61,15 +61,15 @@ API реализован на **Spring Boot** и следует строгим �
 2.  **Frontend:** Клонировать репозиторий. Выполнить `npm install` (или `yarn install`). **ОБЯЗАТЕЛЬНО** заменить **IP-адрес** в JS-файлах (`http://10.73.170.236:8080`) на актуальный локальный IP-адрес хоста с запущенным API.
 3.  Запуск: `npx expo start` и открытие приложения через Expo Go.
 
- ###  Images
  ## Скриншоты приложения
+<div style="display: flex; overflow-x: auto; gap: 10px;">
 
-**Главный экран**
-![Главный экран](images/Home_page.jpg)
+  <img src="images/Home_page.jpg" alt="Home Page" width="300">
+  <img src="images/Transaction_page.jpg" alt="Trasaction Page" width="300">
+  <img src="images/Registration_page.jpg" alt="Registration Page" width="300">
+  <img src="images/Login_page.jpg" alt="Login Page" width="300">
+  <img src="images/History_page.jpg" alt="History Page" width="300">
 
-**Список транзакций**
-![Список транзакций](images/transaction_list.png)
+</div>
 
-**Сводка по финансам**
-![Сводка по финансам](images/summary_screen.png)
 
